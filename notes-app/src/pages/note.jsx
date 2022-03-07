@@ -1,4 +1,4 @@
-import React, { useMemo, useEffect } from 'react';
+import React, { useMemo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import Layout from '../components/layout';
 import useLocalStorage from '../hooks/useLocalStorage';
